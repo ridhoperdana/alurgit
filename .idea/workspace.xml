@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d05c45d-d7f4-4e18-bf6a-3ee6d1a1f0b7" name="Default Changelist" comment="" />
+    <list default="true" id="5d05c45d-d7f4-4e18-bf6a-3ee6d1a1f0b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/reviewdog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/reviewdog.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,10 @@
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.github/workflows/reviewdog.yaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1rrmBht1UU0RtuaoNVUWpwu3WOq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
