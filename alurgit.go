@@ -4,6 +4,6 @@ type Alurgit struct {
 
 }
 
-func Get_alurgit() Alurgit {
-	return Alurgit{}
+func GetAlurgit() AlurGit {
+	return AlurGit{}
 }
